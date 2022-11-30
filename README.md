@@ -1,2 +1,2 @@
 # CRUD_SpringBoot_React
-CRUD usando Mysql, SpringBoot, React, Bootsrap y Axios
+CRUD usando Mysql, SpringBoot, React, Bootstrap y Axios
